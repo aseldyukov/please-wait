@@ -1,3 +1,5 @@
+https://aseldyukov.github.io/please-wait/
+
 PleaseWait.js
 ===========
 A simple library to show your users a beautiful splash page while your application loads.
